@@ -3,3 +3,8 @@
     margin: 0px;
     box-sizing: border-box;
 }
+.header{
+    min-height: 100vh;
+    justify-content: center;
+    background-color: blue;
+}
