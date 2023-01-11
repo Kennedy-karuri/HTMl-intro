@@ -9,45 +9,12 @@
     font-family: 'Open Sans';
     border-width: 10px;
     
-   
-    }
-    
+       
+}    
     body{
         background: white;
     
 }
-
-
-.nav{
-    text-align: center;
-    font-size: large;
-    font-weight:bolder ;
-    flex: inherit;
-    word-spacing:1cm ;
-    
-    
-}
-    
-.nav li{
-    display: inline-flex;
-    
-    
-}
-.nav ul{
-    list-style: none;
-    background-color: white;
-    text-align:center;
-    
-    
-}
-.header {
-    overflow: hidden;
-    background-color: white;
-    position: relative;
-    margin-left: auto;
-    text-align: center;
-}
-
 
   .wrapper .sidebar{
     background-color: grey;
@@ -57,6 +24,7 @@
     width: 200px;
     height: 100%;
     padding: 20px 0;
+    align-items: center;
     }
  .wrapper .sidebar .profile{
         margin-bottom: 30px;
@@ -102,4 +70,12 @@
     transition: all 0.5s ease;
  }
  
- 
+
+.wrapper .section .navbar{
+    background: pink;
+    height: auto;
+    margin: 30px;
+    align-items: center;
+    
+
+}
