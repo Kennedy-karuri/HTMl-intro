@@ -17,23 +17,33 @@
     
 }
 
+}
+.header{
+    min-height: 20vh;
+    text-align: center;
+    
+}
+.container{
+    text-align: center;
+}
 
-.nav{
+.nav {
     text-align: center;
     font-size: large;
-    font-weight:bolder ;
+    font-weight: bolder;
     flex: inherit;
-    word-spacing:1cm ;
-    
-    
+    word-spacing: 1cm;
+
+
 }
-    
-.nav li{
+
+.nav li {
     display: inline-flex;
-    
-    
+
+
 }
-.nav ul{
+
+.nav ul {
     list-style: none;
     background-color: white;
     text-align:center;
@@ -103,3 +113,7 @@
  }
  
  
+    text-align: center;
+
+
+}
