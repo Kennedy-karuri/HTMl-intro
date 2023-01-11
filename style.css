@@ -8,3 +8,11 @@
     box-sizing: border-box;
 
 }
+.header{
+    min-height: 20vh;
+    text-align: center;
+    
+}
+.container{
+    text-align: center;
+}
