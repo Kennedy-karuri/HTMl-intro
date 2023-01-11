@@ -1,3 +1,4 @@
+
 *{
     padding: 0px;
     margin: 10px;
@@ -112,4 +113,13 @@
     transition: all 0.5s ease;
  }
  
- 
+ h1{
+    text-align: center;
+ }
+
+ .about{
+    text-align: center;
+ }
+ p{
+    text-align: center;
+ }
